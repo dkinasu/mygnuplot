@@ -1,0 +1,12 @@
+
+No Name     Ave_ltc  RAW_TRACE ALL_REQ_READ ALL_REQ_READ_RAN ALL_RANDOM
+0  BA         734898944.00000    0.00000    0.00000    0.00000    0.00000
+1  RA         783405184.00000    0.00000    0.00000    0.00000    0.00000
+2  DA         740531648.00000    0.00000    0.00000    0.00000    0.00000
+3  DA_noRR    3609145344.00000    0.00000    0.00000    0.00000    0.00000
+
+---------------Normalized results---------------------------
+0  BA            0.99239       -nan       -nan       -nan       -nan
+1  RA            1.05790       -nan       -nan       -nan       -nan
+2  DA            1.00000       -nan       -nan       -nan       -nan
+3  DA_noRR       4.87372       -nan       -nan       -nan       -nan
